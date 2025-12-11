@@ -93,3 +93,8 @@ alter table FOURNIR add constraint FK_FOURNIR foreign key (CODEPROD)
 alter table FOURNIR add constraint FK_FOURNIR2 foreign key (NUMF)
       references FOURNISSEUR (NUMF) on delete restrict on update restrict;
 ```
+## 🧑‍💻 Author
+- 👤 Agouram Hassan
+- 🏫 Modélisation des Systèmes d’Information avec Merise
+- 🎓 Instructor	Mr.LACHGAR
+- 📅 11 décembre 2025
