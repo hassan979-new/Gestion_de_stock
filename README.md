@@ -1,5 +1,5 @@
 
-# Gestion de stock (Sortie) : Dictionnaire, Règles, MCD, MLD
+# Gestion de stock (Entrée) : Dictionnaire, Règles, MCD, MLD
 
 ## Dictionnaire de données
 - <img width="588" height="331" alt="image" src="https://github.com/user-attachments/assets/55f7494f-9803-4db5-aca6-d598577ddae3" />
